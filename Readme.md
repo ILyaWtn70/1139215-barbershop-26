@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Даниил Васильчук](https://up.htmlacademy.ru/htmlcss/26/user/1139215).
+* Студент: [Студент1](https://up.htmlacademy.ru/htmlcss/26/user/1139215).
 
 ---
 
